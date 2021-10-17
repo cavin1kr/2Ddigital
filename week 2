@@ -64,7 +64,7 @@
   ![color_space](https://user-images.githubusercontent.com/90597842/137617255-fb830f3b-7b6c-4d29-b685-74749456590c.png)
   
   - Gamut
-  Color gamut(색역)은 사용하는 장치가 보여주거나 만들어 낼 수 있는 색상의 밤위 이다. 보통 장치에서 사용되는 컬러 모델에 따라 Chromaticity diagram(색도도)에 삼각형으로 표현된다.
+  Color gamut(색역)은 사용하는 장치가 보여주거나 만들어 낼 수 있는 색상의 범위 이다. 보통 장치에서 사용되는 컬러 모델에 따라 Chromaticity diagram(색도도)에 삼각형으로 표현된다.
   ![color-gamut](https://user-images.githubusercontent.com/90597842/137618529-156e5469-3060-4dde-92f2-fe672cf0e72a.jpg) 
   *다른 색역들이 색도도에서 표현되는 예시
   
@@ -77,7 +77,12 @@
    (https://www.benq.com/en-me/knowledge-center/knowledge/color-gamut-monitor.html)
    
    -ACES
-    ACES? The Acadmey Color Encoding System의 약자. 
+    ACES? The Acadmey Color Encoding System의 약자. 많은 스튜디오에서 현재 사용하고 있는 color space. 표현할 수 있는 색상의 범위가 넓음.
+    현재 UHD 화질의 영상까지도 커버 가능 함. 
+    
+    (https://docs.arnoldrenderer.com/display/A5KTN/ACES+Workflow)
+    
+    
    
    
    
