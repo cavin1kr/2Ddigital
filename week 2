@@ -63,5 +63,32 @@
   
   ![color_space](https://user-images.githubusercontent.com/90597842/137617255-fb830f3b-7b6c-4d29-b685-74749456590c.png)
   
-  ffff
+  - Gamut
+  Color gamut(색역)은 사용하는 장치가 보여주거나 만들어 낼 수 있는 색상의 밤위 이다. 보통 장치에서 사용되는 컬러 모델에 따라 Chromaticity diagram(색도도)에 삼각형으로 표현된다.
+  ![color-gamut](https://user-images.githubusercontent.com/90597842/137618529-156e5469-3060-4dde-92f2-fe672cf0e72a.jpg) 
+  *다른 색역들이 색도도에서 표현되는 예시
+  
+  가장 큰 특징은 Color gamut은 2차원이 아닌 3차원이라는 것이다. 그 이유는 우리가 색에 대해 이야기 할 때 세 가지 요소로 이야기 하게 된다.
+  색상(hue), 명도(lightness), 채도(saturation), 각 각 3차원 축에서 x,y,z로 표현 되 는 것. 하지만 3차원 그래프로 표현해서 나타내는 것은 굉징히 어려움.
+  그래서 2차원 그래프에서 gamut값을 나타내는 것.
+  
+  *NTSC : 가장 일반적으로 알려져있는 색역값. 하지만 기준값은 아님
+   sRGB : IEC에서 1999년에 만들어진 색역값의 표준. 표준으로 사용되는 이유는 color reproduction(색 재현율)을 보다 쉽게 나타낼 수 있었기 때문
+   (https://www.benq.com/en-me/knowledge-center/knowledge/color-gamut-monitor.html)
+   
+   -ACES
+    ACES? The Acadmey Color Encoding System의 약자. 
+   
+   
+   
+ 
+
+
+  
+  
+  
+  
+   
+  
+  
   
