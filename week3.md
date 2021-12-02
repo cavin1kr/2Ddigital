@@ -70,7 +70,18 @@
   
  3. Premultiplication
  
-  - premult : 
+  - premult : RGB 값과 알파 값을 곱해 이미지에 반영 하는 것
+
+    아래 이미지에 로토 노드로 알파를 지정해 주면 누크 내에 알파 섹션에서 본다면 적용이 되지만 실제 RGB 이미지에는 적용 되지 않은 것을 알 수 있다.
+
+![doge_nopre](https://user-images.githubusercontent.com/90597842/144406458-63e68da7-d3c5-49af-9a93-e30249dcd70a.png)
+![doge_alpha_nopre](https://user-images.githubusercontent.com/90597842/144406518-120eb097-602e-4adf-a99f-66561385ffda.png)
+
+   이 경우 Premult 노드를 사용해주면 알파 값이 RGB체널에 곱해져 이미지에 반영된다.
+   
+![doge_premult](https://user-images.githubusercontent.com/90597842/144407012-ac07cabb-903a-4469-8072-e7fff5c01a90.png)
+
+    
   
   - black ( 0, 0, 0) alpha 1
   - white ( 1, 1, 1) alpha 0
