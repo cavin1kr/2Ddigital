@@ -1,3 +1,17 @@
  1. Merge Node
  
-  - Merge : 
+  - Merge : 여러 이미지를 레이어링 할 때 사용 되는 노드, 이 노드를 사용할 때 원하는 결과를 위해 적절하게 이미지의 픽셀 값을 계산 해 줄 합성 알고리즘을 골라야 한다.
+            
+            단축키는 M
+            
+            ![merge_node](https://user-images.githubusercontent.com/90597842/144414267-d439e7a2-eb9f-440a-8f75-9dd5f2a236d8.png)
+            
+            (Connection : 1. A : B와 합성이 될 이미지. B와 달리 A 이후에 A1, A2 처럼 여러 이미지들을 추가 할 수 도 있다.
+                          2. B : A와 합성이 될 이미지, 보통 배경으로 쓰인다.
+                          3. mask : mask로 쓰일 추가적인 이미지를 추가 할 때 사용 된다. 
+  
+    - Operation : 이미지에 merge 노드를 적용할 때 사용 할 합성 알고리즘들을 고를 수 있다
+    
+                  - over 
+    
+                  
