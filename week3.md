@@ -68,7 +68,12 @@
    
   - 
   
- 3. 
+ 3. Premultiplication
+ 
+  - premult : 
+  
+  - black ( 0, 0, 0) alpha 1
+  - white ( 1, 1, 1) alpha 0
  
  
  
