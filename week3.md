@@ -81,6 +81,8 @@
    
 ![doge_premult](https://user-images.githubusercontent.com/90597842/144407012-ac07cabb-903a-4469-8072-e7fff5c01a90.png)
 
+  (https://jamesprattvfx.com/blog/nuke-premult-unpremult)
+
   
     
   
