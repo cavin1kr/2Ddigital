@@ -1,6 +1,6 @@
 # 2Ddigital
 
- 1. Camera tracking
+ 1. Tracker
  
    3D 그래픽으로 만들어낸 또는 현실적으로 존재하지 않는 가상의 물체들을 실사 촬영에 의해 얻어진 영상물에 매칭 시키는 작업을 매치무빙(Match Moving)이라 하고
    
@@ -37,6 +37,24 @@
      
      - 3가지 포인트에서 X축과 Y축 정보를 추적한다. 
        Two-Point에서 얻을 수 있는 정보와 함깨 더욱 정교한 Z축 정보와 크기 변화 정보를 추출한다.
-   
-   ![tracking](https://user-images.githubusercontent.com/90597842/146633008-35540ea6-cf6e-4b39-99dc-26c6c7c98267.png)
+   ![tracker_3](https://user-images.githubusercontent.com/90597842/146633249-c4d11e59-5ae9-49e3-8e88-cb1f93d9dc8d.png)
+
    (https://learn.foundry.com/nuke/content/tutorials/written_tutorials/tutorial2/1_2_3_4_point_tracks.html)
+
+   4) Planar Tracking 
+   
+    - 움직이지 않는 평면을 트래킹할 때 주로 사용된다. (벽이나 천장, 차의 옆면 등)
+      평면이 아닌 사람의 얼굴을 트래킹 할 때도 사용할 수 있지만 효과적이진 않다.
+      
+      
+    (https://learn.foundry.com/nuke/11.1/content/tutorials/planar_tracking.html)
+    
+ 2. Camera tracking
+
+  - 
+     
+    
+     
+      
+      
+
