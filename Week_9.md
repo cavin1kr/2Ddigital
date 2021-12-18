@@ -24,13 +24,20 @@
       
       사진에서 Focal Point는 피아노와 연주자이기 때문에 감독은 의도적으로 대비를 높혀 연주자만 보이게 강조한 것이다.
       
+      (https://www.masterclass.com/articles/film-101-understanding-film-lighting#why-lighting-is-important)
+      
      2) Sharpness
      
-       촬영한 오브젝트의 선예도. 즉 경계를 흐리거나 선명하게 조절하여 그 차이를 통해 제작자의 의도를 알릴 수 있다.
+       촬영한 오브젝트의 선멍도. 즉 경계를 흐리거나 선명하게 조절하여 그 차이를 통해 제작자의 의도를 알릴 수 있다.
        
        ![sharpness](https://user-images.githubusercontent.com/90597842/146640210-6b70f9b2-66cf-4fd8-99d0-532199190e65.png)
        
-       위 이미지에서는 인물에게 시선을 집중시키기 위해 의도적으로 뒷 배경의 Sharpness를 낮게 설정했다.
+       인물에게 시선을 집중시키기 위해 의도적으로 뒷 배경의 Sharpness를 낮게 설정했다.
+       위 영화에서는 주인공의 무표정함을 강조하기 위해 들고 있는 총 부분도 선명도를 낮게 설정한 것을 볼수있다.
+       
+  2. Aperture & Depth of Field
+  
+       
        
        
       
