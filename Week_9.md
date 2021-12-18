@@ -37,23 +37,29 @@
        
   2. Aperture & Depth of Field
 
-         조리개, 눈의 동공에 해당하는 사진기의 부품
-         동공이 눈으로 들어오는 것을 조절하듯이 조리개는 렌즈로 들어오는 빛의 양을 결정한다.
-         조리개의 열고 닫는 정도를 조리개 수치라고 부르며 f로 표기한다.
-         이 조리개의 개방 정도(F값)에 따라 피사계 심도(Depth of Field)가 달라지게 되는데
-         조리개가 넓어지면 더 작아지고, 좁아지면 피사계 심도는 더 커진다.
+        조리개, 눈의 동공에 해당하는 사진기의 부품
+        동공이 눈으로 들어오는 것을 조절하듯이 조리개는 렌즈로 들어오는 빛의 양을 결정한다.
+        조리개의 열고 닫는 정도를 조리개 수치라고 부르며 f로 표기한다.
+        이 조리개의 개방 정도(F값)에 따라 피사계 심도(Depth of Field)가 달라지게 되는데
+        조리개가 넓어지면 더 작아지고, 좁아지면 피사계 심도는 더 커진다.
          
          Depth of Field는 피사계 심도, 화면에서 초점이 맞춰진 가장 가까운 물체와 가장 먼 물체 사이의 거리이다.
        
-         ![Aperture](https://user-images.githubusercontent.com/90597842/146647617-a9feb2d8-98e2-41bc-ab94-c8bf6f7a1141.png)
+        ![Aperture](https://user-images.githubusercontent.com/90597842/146647617-a9feb2d8-98e2-41bc-ab94-c8bf6f7a1141.png)
          
-         아래 사진은 F값에 따라 DOV가 변화하면서 어떻게 사진이 보여지는지에 대한 예시이다. 
+        아래 사진은 F값에 따라 DOV가 변화하면서 어떻게 사진이 보여지는지에 대한 예시이다. 
        
-         ![equivalent exposure](https://user-images.githubusercontent.com/90597842/146647788-c0b4fc8d-2880-4999-ba79-a9b90c7c0a94.jpg)
+        ![equivalent exposure](https://user-images.githubusercontent.com/90597842/146647788-c0b4fc8d-2880-4999-ba79-a9b90c7c0a94.jpg)
          
-         (http://www.boostyourphotography.com/2014/10/depth-of-field.html)
-         (https://ko.wikipedia.org/wiki/%EC%A1%B0%EB%A6%AC%EA%B0%9C)
-         
+        
+        
+        
+        
+        
+        
+        (http://www.boostyourphotography.com/2014/10/depth-of-field.html)
+        (https://ko.wikipedia.org/wiki/%EC%A1%B0%EB%A6%AC%EA%B0%9C)
+        
        
        
           
