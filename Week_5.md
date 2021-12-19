@@ -43,7 +43,8 @@
                  
                  노드를 사용해 멈춰있는 배경 앞에서 촬영 된 움직이는 매트를 생성 할 수 있다. 하지만 이 노드만으로는 깨끗한 매트를 생성하는 것은 거의 불가능 하다.
                  
-                 ![difference](https://user-images.githubusercontent.com/90597842/146678855-1d12e747-4653-49c3-8002-d5b9938aeb64.png)
+   
+   ![difference](https://user-images.githubusercontent.com/90597842/146678855-1d12e747-4653-49c3-8002-d5b9938aeb64.png)
   
  
                
