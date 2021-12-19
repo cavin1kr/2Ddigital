@@ -33,15 +33,19 @@
   
   ![luminancekey](https://user-images.githubusercontent.com/90597842/145676630-53863bda-82ae-4b0e-b202-76805e328f42.png)
   
-  - HueKeyer :
+  - HueKeyer : RGB채널에서 Hue값을 알아내어 amount커브를 사용해 알파를 추출해 낸다. 그래프에서 X축은 Hue값을 나타내고 Y축은 해당 Hue값의 알파 값을 나타낸다.
   
-  -Difference :
+  ![Hue](https://user-images.githubusercontent.com/90597842/146678709-a7fa2702-51e4-4f80-97f1-77dfb0603606.png)
   
-  -keylight : 
+  - Difference : 두가지 이미지 사이의 차이를 매트로 생성하는 노드
+                 B : 추출할 매트와 배경이 함깨 존재하는 영상
+                 A : 배경만 존재하는 영상
+                 
+                 노드를 사용해 멈춰있는 배경 앞에서 촬영 된 움직이는 매트를 생성 할 수 있다. 하지만 이 노드만으로는 깨끗한 매트를 생성하는 것은 거의 불가능 하다.
+                 
+                 ![difference](https://user-images.githubusercontent.com/90597842/146678855-1d12e747-4653-49c3-8002-d5b9938aeb64.png)
   
-  -Ultimate : 
-  
-  - Primatte : 
+ 
                
                
 
@@ -53,16 +57,7 @@
  
  
  
- VFX를 좀 더 쉽게 만들기 위한 기술
- 
- -VFX(시각효과)
- 촬영현장에서 실제로 촬영된 건 아니지만 영상에 특수효과를 주기 위해 만들어지는 모든 촬영 기법, 영상물
- 
- -Chroma Key Lighting
- 전통적인 필름 영화 라이팅과는 달리 green screen 라이팅의 특징은 일정하고 지속적인 빛이여야 한다는 것.
- 
- 2. Keyers
- 
+
  
  
  
