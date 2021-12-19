@@ -49,9 +49,15 @@
       
     (https://learn.foundry.com/nuke/11.1/content/tutorials/planar_tracking.html)
     
- 2. Camera tracking
+   5) Camera tracking
 
-  - 
+  - 카메라 트래킹 노드는 2D상의 이미지에서 특징이 되는 포인트들을 지정하고 움직임을 추적해 촬영한 카메라의 무빙과 일치하는 
+    가상의 카메라를 만들어 낼 수 있다.
+    이를 통해 단순한 2D 이미지에 시점을 추가 하거나 3D오브젝트를 자연스럽게 합성 할 수 있다.
+    
+    ![cameratracker](https://user-images.githubusercontent.com/90597842/146678426-763f8a70-1dc2-4cc8-aea0-b45f44d4469c.png)
+    
+    ![CameraTracker_Tutorial1](https://user-images.githubusercontent.com/90597842/146678513-c1223d71-0ba8-4de8-88ec-eec0c268bd07.png)
      
     
      
